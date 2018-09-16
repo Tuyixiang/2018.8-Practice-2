@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/check.wav</file>
+        <file>res/checked.wav</file>
+        <file>res/concede.png</file>
+        <file>res/kill.wav</file>
+        <file>res/killed.wav</file>
+        <file>res/lose.png</file>
+        <file>res/lose.wav</file>
+        <file>res/move.wav</file>
+        <file>res/opp.png</file>
+        <file>res/tada.wav</file>
+        <file>res/title.png</file>
+        <file>res/win.png</file>
+        <file>res/win.wav</file>
+        <file>res/wood.jpg</file>
+        <file>res/wood2.jpg</file>
+        <file>res/your.png</file>
+        <file>res/HYCuSongF.ttf</file>
+    </qresource>
+</RCC>
